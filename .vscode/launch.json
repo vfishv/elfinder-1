@@ -15,7 +15,7 @@
             "port": 2345,
             "showLog": true,
             "trace": true,
-            "program": "${workspaceFolder}"
+            "program": "${workspaceFolder}/example"
         }
     ]
 }
